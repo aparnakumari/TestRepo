@@ -1,0 +1,2 @@
+host space:  10 GB
+hostname: localhost
